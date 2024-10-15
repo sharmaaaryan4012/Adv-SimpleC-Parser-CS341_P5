@@ -29,7 +29,7 @@ This project is a SimpleC type checker and parser, developed as part of CS-341 (
 
 3. **Run the Project**
    ```
-   dotnet run --project main.fs
+   dotnet run
    ```
 
 4. **Input the SimpleC File**
